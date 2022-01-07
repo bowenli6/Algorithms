@@ -2,7 +2,7 @@ package DataStructures.fundamentals.unionfind;
 
 public class WeightedQuickUnion extends UF {
 
-    private final int[] id;       // access to component idq (site indexed)
+    private final int[] id;       // parent link (site indexed)
     private final int[] sz;       // size of component for roots (site indexed)
     private int count;            // number of components
 
