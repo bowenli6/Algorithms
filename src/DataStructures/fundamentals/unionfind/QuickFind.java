@@ -9,9 +9,7 @@ public class QuickFind extends UF {
         // initialize component id array.
         count = n;
         id = new int[n];
-        for (int i = 0; i < n; i++) {
-            id[i] = i;
-        }
+        for (int i = 0; i < n; i++) id[i] = i;
     }
 
     void union(int p, int q) {
