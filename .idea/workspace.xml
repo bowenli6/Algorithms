@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de81782-17ff-40d3-a589-d3895d781a12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/fundamentals/unionfind/Percolation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/fundamentals/unionfind/WeightedQuickUnion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/fundamentals/unionfind/WeightedQuickUnion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/DataStructures/fundamentals/unionfind/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/DataStructures/fundamentals/unionfind/Percolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructures/fundamentals/unionfind/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/fundamentals/unionfind/Percolation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,8 @@
       <option name="presentableId" value="Default" />
       <updated>1640504080079</updated>
       <workItem from="1640504083288" duration="3446000" />
-      <workItem from="1641558332981" duration="3498000" />
+      <workItem from="1641558332981" duration="3937000" />
+      <workItem from="1641654007858" duration="1906000" />
     </task>
     <servers />
   </component>
